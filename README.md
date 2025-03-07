@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent Industrial Engineering graduate <br>with a strong passion for data science.
+I am a recent Industrial Engineering graduate with a strong passion for data science.
 
 
 # 💻 Tech Stack:
